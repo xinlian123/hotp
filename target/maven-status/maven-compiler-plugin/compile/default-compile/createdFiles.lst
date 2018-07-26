@@ -1,0 +1,8 @@
+com\sun\identity\authentication\modules\hotp\HOTPPrincipal.class
+com\sun\identity\authentication\modules\hotp\HOTP.class
+com\sun\identity\authentication\modules\hotp\HOTPAlgorithm.class
+com\sun\identity\authentication\modules\hotp\SMSGateway.class
+com\sun\identity\authentication\modules\hotp\OTPGenerator.class
+com\sun\identity\authentication\modules\hotp\HOTPParams.class
+com\sun\identity\authentication\modules\hotp\DefaultSMSGatewayImpl.class
+com\sun\identity\authentication\modules\hotp\HOTPService.class
